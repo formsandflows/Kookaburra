@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/43b1e8b5-539f-4dfb-8b5b-9a26c4f0ba71" width=600px></p>
 
-Kookaburra is an open-source project for an extensible automation platform for business solutions to support application managers – functional and technical – in their day-to-day work.
+Kookaburra is an open-source project for an **extensible automation platform for business solutions** to support application managers – functional and technical – in their day-to-day work.
 
 Organizations using Kookaburra will be able to automate many actions. This can be by custom created (add-on) automations tailored to specific situations as well as by built-in automations. A goal for Kookaburra is to grown the number of built-in automations over time.
 
