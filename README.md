@@ -1,3 +1,5 @@
+Version 1.0.0 will be released soon. The preview release is not available for download anymore.
+
 # Kookaburra
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/43b1e8b5-539f-4dfb-8b5b-9a26c4f0ba71" width=600px></p>
